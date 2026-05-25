@@ -18,6 +18,7 @@ version <next>:
 - Remove ogg/celt parsing
 - Bitstream filter to split Dolby Vision multi-layer HEVC
 - PCM PAMF decoder
+- ATRAC3+ ATS decoder and parser
 
 
 version 8.1:
